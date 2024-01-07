@@ -182,7 +182,6 @@
     top:0;
     filter: brightness(0.75) saturate(1.2) contrast(0.85);
     transform-origin:center;
-    transform:scale(1) translateZ(0);
     transition:
     filter 200ms linear,
     transform 200ms linear;
